@@ -1,0 +1,18 @@
+{
+  "name": "Your name or brand",
+  "niche": "What your content is about and who it's for, e.g. 'home workouts for busy dads'",
+  "handles": {"tiktok": "@", "instagram": "@", "youtube": "@", "facebook": ""},
+  "footage_folders": ["C:/Users/YOU/OneDrive/Content"],
+  "output_folder": "",
+  "pause_gap": 0.15,
+  "whisper_model": "small.en",
+  "captions": {
+    "font": "Montserrat",
+    "color": "#FFFFFF",
+    "highlight": "#FFD400",
+    "stroke": "#000000",
+    "size": 76,
+    "y": 0.6,
+    "uppercase": true
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "studio",
+      "runtimeExecutable": "npx.cmd",
+      "runtimeArgs": ["remotion", "studio", "src/index.ts", "--no-open"],
+      "port": 3000
+    }
+  ]
+}
